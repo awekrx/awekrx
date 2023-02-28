@@ -4,6 +4,7 @@ Secondly, I am very excited about the development of AI technologies and I like 
 
 ### My AI tools
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awekrx&repo=ChatGPT-MidJourney-prompt&theme=dark)](https://github.com/awekrx/ChatGPT-MidJourney-prompt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awekrx&repo=AutoDoc-ChatGPT&theme=dark)](https://github.com/awekrx/AutoDoc-ChatGPT)
 
 ### Technologies
 
