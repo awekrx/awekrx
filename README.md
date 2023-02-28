@@ -2,10 +2,6 @@
 Hello, I`m Ipatov Dmytro. First of all, I'm a NodeJS software engineer.
 Secondly, I am very excited about the development of AI technologies and I like to create various applications based on AI.
 
-### My AI tools
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awekrx&repo=ChatGPT-MidJourney-prompt&theme=dark)](https://github.com/awekrx/ChatGPT-MidJourney-prompt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awekrx&repo=AutoDoc-ChatGPT&theme=dark)](https://github.com/awekrx/AutoDoc-ChatGPT)
-
 ### Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="nodejs" width="40" height="40" />&nbsp;
@@ -20,6 +16,11 @@ Secondly, I am very excited about the development of AI technologies and I like 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="40" height="40" />&nbsp;
+
+### My AI tools
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awekrx&repo=ChatGPT-MidJourney-prompt&theme=dark)](https://github.com/awekrx/ChatGPT-MidJourney-prompt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awekrx&repo=AutoDoc-ChatGPT&theme=dark)](https://github.com/awekrx/AutoDoc-ChatGPT)
+
 
 # GitHub stats
 ![awekrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=awekrx&show_icons=true&theme=dark)
